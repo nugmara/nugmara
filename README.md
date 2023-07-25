@@ -23,7 +23,7 @@
 ### Languages and tools
 
 <a href="https://html.com/"> 
-    <img alt="html-logo" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor"/>
+    <img alt="html-logo" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"/>
 </a>
 <a href="https://www.css3.com/">
     <img alt ="css3-logo" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
@@ -46,9 +46,14 @@
 <a href="https://www.mongodb.com/">
     <img alt="ongodb-logo" src="https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor"/>
 </a>
+<a href="https://www.postgresql.org/">
+    <img alt="postgresql-logo" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor"/>
+</a>
 <a href="https://git-scm.com/">
     <img alt="git-logo" src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"/>
 </a>
+
+
 
 
 
