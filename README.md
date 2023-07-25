@@ -22,36 +22,39 @@
 
 ### Languages and tools
 
-<a href="https://html.com/"> 
-    <img alt="html-logo" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"/>
-</a>
-<a href="https://www.css3.com/">
-    <img alt ="css3-logo" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
-<a/>
-<a href="https://www.javascript.com/">
-    <img alt="javascript-logo" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
-</a>
-<a href="https://vitejs.dev/">
-    <img alt="vite-logo" src="./vite-logo.svg" width="50"/>
-</a>
-<a href="https://react.dev/">
-    <img alt="react-logo" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor"/>
-</a>
-<a href="https://nodejs.org/en">
-    <img alt="nodejs-logo" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor"/>
-</a>
-<a href="https://expressjs.com/">
-    <img alt="express-logo" src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor"/>
-</a>
-<a href="https://www.mongodb.com/">
-    <img alt="ongodb-logo" src="https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor"/>
-</a>
-<a href="https://www.postgresql.org/">
-    <img alt="postgresql-logo" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor"/>
-</a>
-<a href="https://git-scm.com/">
-    <img alt="git-logo" src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"/>
-</a>
+<div dir="auto">
+    <a href="https://html.com/"> 
+        <img alt="html-logo" src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor"/>
+    </a>
+    <a href="https://www.css3.com/">
+        <img alt ="css3-logo" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
+    <a/>
+    <a href="https://www.javascript.com/">
+        <img alt="javascript-logo" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
+    </a>
+    <a href="https://vitejs.dev/">
+        <img alt="vite-logo" src="./vite-logo.svg" width="50"/>
+    </a>
+    <a href="https://react.dev/">
+        <img alt="react-logo" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor"/>
+    </a>
+    <a href="https://nodejs.org/en">
+        <img alt="nodejs-logo" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor"/>
+    </a>
+    <a href="https://expressjs.com/">
+        <img alt="express-logo" src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor"/>
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img alt="ongodb-logo" src="https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor"/>
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img alt="postgresql-logo" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor"/>
+    </a>
+    <a href="https://git-scm.com/">
+        <img alt="git-logo" src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"/>
+    </a>
+
+</div>
 
 
 
