@@ -65,8 +65,8 @@
 </div>
 
 ### Some fun facts about me
-
-<img align="end" alt="octocat-dagmaro" src="./octocat-dagmaro.png" width="200"/>
+<p align="left">Testing text</p>
+<img align="right" alt="octocat-dagmaro" src="./octocat-dagmaro.png" width="200"/>
 
 
 
