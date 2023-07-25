@@ -20,6 +20,12 @@
     <img src="/LinkedIn_logo_initials.png" height="50" width="50" style="max-width: 100%"/>
 </a>
 
+### Languages and tools
+
+<a href="https://html.com/"> 
+    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
+</a>
+
 
 
 
