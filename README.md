@@ -1,11 +1,11 @@
 <div align="center"> 
-[
+
 ### 👋 Hi, world! I'm Dagmara👋
 
 ---
 
 #### I am a Front-end Developer 
-] 
+
 </div>
 
 
