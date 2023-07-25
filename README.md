@@ -64,6 +64,10 @@
     </a>
 </div>
 
+### Some fun facts about me
+
+<img align="end" alt="octocat-dagmaro" src="./octocat-dagmaro.png" width="200"/>
+
 
 
 
