@@ -32,7 +32,7 @@
     <img alt="javascript-logo" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
 </a>
 <a href="https://vitejs.dev/">
-    <img alt="vite-logo" src="./vite-logo.svg"/>
+    <img alt="vite-logo" src="./vite-logo.svg" width="50"/>
 </a>
 
 
