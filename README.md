@@ -2,7 +2,7 @@
 [
 ### 👋 Hi, world! I'm Dagmara👋
 
-<hr>
+---
 
 #### I am a Front-end Developer 
 ] 
