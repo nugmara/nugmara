@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, world! I'm Dagmara👋
+
+<img src="https://github.com/dagmaro/dagmaro/assets/118689208/78fc1203-ca66-4fb6-a271-2f03a4086e39" width="200"/>
 
 <!--
 **dagmaro/dagmaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
