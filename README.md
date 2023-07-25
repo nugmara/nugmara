@@ -3,7 +3,7 @@
 # 👋 Hi, world! I'm Dagmara Grabowska👋
 
 
-#### I am a Front-end Developer currently venturing into the fascinating world of web development. The prospect of acquiring new skills and knowledge fills me with immense enthusiasm. Crafting websites from scratch is a delightful blend of creativity and logical thinking, making the learning process incredibly rewarding. <br> With each passing day, I encounter fresh challenges and make exciting discoveries, propelling me forward on this exhilarating coding journey. The experience has been nothing short of amazing, and I am eagerly anticipating the future possibilities that await me in this dynamic field. 
+### I am a Front-end Developer currently venturing into the fascinating world of web development. The prospect of acquiring new skills and knowledge fills me with immense enthusiasm. Crafting websites from scratch is a delightful blend of creativity and logical thinking, making the learning process incredibly rewarding. <br> With each passing day, I encounter fresh challenges and make exciting discoveries, propelling me forward on this exhilarating coding journey. The experience has been nothing short of amazing, and I am eagerly anticipating the future possibilities that await me in this dynamic field. 
 
 </div>
 
