@@ -17,13 +17,22 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/dagmara-grabowska/">
-    <img src="/LinkedIn_logo_initials.png" height="50" width="50" style="max-width: 100%"/>
+    <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor" height="50" width="50" style="max-width: 100%"/>
 </a>
 
 ### Languages and tools
 
 <a href="https://html.com/"> 
-    <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
+    <img alt="html-logo" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor"/>
+</a>
+<a href="https://www.css3.com/">
+    <img alt ="css3-logo" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor"/>
+<a/>
+<a href="https://www.javascript.com/">
+    <img alt="javascript-logo" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
+</a>
+<a href="https://vitejs.dev/">
+    <img alt="vite-logo" src="./vite-logo.svg"/>
 </a>
 
 
