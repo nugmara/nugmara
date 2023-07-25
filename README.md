@@ -14,6 +14,10 @@
 * I am passionate about creating stunning websites that engage and captivate users, providing them with a delightful online experience.
 * I am embracing and loving the challenges web development offers, as they lead to rewarding growth and satisfaction.
 
+### Connect with me:
+
+https://www.linkedin.com/in/dagmara-grabowska/
+
 
 
 <!--
