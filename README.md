@@ -17,7 +17,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/dagmara-grabowska/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/gith…/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" style="max-width: 100%"/>
+    <img src="![LinkedIn logo](702300.png)" height="30" width="40" style="max-width: 100%"/>
 </a>
 
 
