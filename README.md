@@ -5,9 +5,13 @@
 
 ### **I am a Front-end Developer** from Spain
 
+
 </div>
 
+<img alt="daga-banner" src="./cj0lkcv3lvcg0080lld0.jpg"/>
+
 ### About Me
+
 
 * Currently, I am enthusiastically delving into the realm of WebGL, as I aspire to specialize in this captivating technology for my future endeavors.
 * I am continuously honing and refining the skills I have acquired, as I remain dedicated to my learning journey and strive for constant improvement.
