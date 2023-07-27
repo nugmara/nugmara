@@ -95,7 +95,7 @@
 
 <img align="right" alt="octocat-dagmaro" src="./images/octocat-dagmaro.png" width="200"/> 
 
-> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+> **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie**
 
 </p>
 
