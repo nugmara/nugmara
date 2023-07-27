@@ -78,7 +78,7 @@
 
 <p>
 
-<img align="right" alt="avoiding-internet" src="./images/funny-jacket.gif" width="200">
+<img align="left" alt="avoiding-internet" src="./images/funny-jacket.gif" width="200">
 
 <p>As a dedicated professional in the field of Web Development, I refrain from using any social media except for LinkedIn. Initially skeptical, I've come to appreciate LinkedIn for its opportunities to connect with interesting professionals and access valuable knowledge. I've found that LinkedIn offers a chance to connect with many different people who share similar interests and career goals. It's not just a social media platform; it's been a great place for me to keep learning from others. There are so many opportunities to share knowledge, have interesting conversations, and join communities specific to our industries. I have genuinely found LinkedIn to be an enriching platform.</p>
 
