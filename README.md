@@ -89,7 +89,13 @@
 
 </p>
 
+<p>
+
+> "The most powerful person in the world is the story-teller. The storyteller sets the vision, values and agenda of an entire generation that is to come." - Steve Jobs
+
 <img align="right" alt="octocat-dagmaro" src="./images/octocat-dagmaro.png" width="200"/>
+
+</p>
 
 
 
