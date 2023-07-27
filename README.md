@@ -83,9 +83,9 @@
 
 ### ⚙️ GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugmara&layout=donut&langs_count=8&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugmara&layout=compact&langs_count=8&theme=jolly)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugmara&show_icons=true&theme=jolly&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugmara&theme=jolly&rank_icon=github)
 
 </p>
 
