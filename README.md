@@ -75,7 +75,7 @@
 
 ### ⚙️ GitHub Analytics
 
-<div align="center">
+<div height="180em" align="center" style="max-width: 100%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugmara&layout=compact&langs_count=8&theme=jolly)
 
