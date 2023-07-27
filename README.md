@@ -73,15 +73,16 @@
 <img align="right" alt="octocat-dagmaro" src="./octocat-dagmaro.png" width="200"/> I am deeply passionate about offering assistance to others and striving to create solutions that contribute positively to 
     people's lives. Whether it involves extending a helping hand or developing projects that serve a purpose, I find immense fulfillment in making a meaningful impact. I take great pride in the work I undertake. Witnessing the positive outcomes and knowing that my efforts have made a difference serves as a constant motivation to continue my pursuit of meaningful contributions.
 
-### ⚙️ GitHub Analytics
 
-<div height="180em" align="center" style="max-width: 100%">
+<p align="center">
+
+### ⚙️ GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugmara&layout=compact&langs_count=8&theme=jolly)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugmara&show_icons=true&theme=jolly&rank_icon=github)
 
-</div>
+</p>
 
 
 
