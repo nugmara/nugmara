@@ -91,9 +91,11 @@
 
 <p>
 
+### A Web's Developer Journey
+
 <img align="right" alt="octocat-dagmaro" src="./images/octocat-dagmaro.png" width="200"/> 
 
-> "The most powerful person in the world is the story-teller. The storyteller sets the vision, values and agenda of an entire generation that is to come." - Steve Jobs
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
 </p>
 
