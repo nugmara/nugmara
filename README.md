@@ -74,7 +74,7 @@
     people's lives. Whether it involves extending a helping hand or developing projects that serve a purpose, I find immense fulfillment in making a meaningful impact. I take great pride in the work I undertake. Witnessing the positive outcomes and knowing that my efforts have made a difference serves as a constant motivation to continue my pursuit of meaningful contributions.
 
 
-<p align="center">
+<p>
 
 ### ⚙️ GitHub Analytics
 
