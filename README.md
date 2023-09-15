@@ -67,13 +67,13 @@
     </a>
 </div>
 
-### Facts about me
+### :octocat: Facts about me <img align="right" alt="octocat-dagmaro" src="./images/octocat-dagmaro.png" width="200"/> 
 
  <p align="left"> I am deeply passionate about offering assistance to others and striving to create solutions that contribute positively to 
     people's lives. Whether it involves extending a helping hand or developing projects that serve a purpose, I find immense fulfillment in making a meaningful impact. I take great pride in the work I undertake. Witnessing the positive outcomes and knowing that my efforts have made a difference serves as a constant motivation to continue my pursuit of meaningful contributions.</p>
 
 
-### Funny facts about me
+### :shipit: Funny facts about me
 
 <p>
 
@@ -92,8 +92,6 @@
 <p>
 
 ### A Web's Developer Journey
-
-<img align="right" alt="octocat-dagmaro" src="./images/octocat-dagmaro.png" width="200"/> 
 
 > **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie**
 
