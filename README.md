@@ -5,7 +5,7 @@
 
 ### **I am a Front-end Developer** from Spain
 
-<img  alt="daga-banner" src="./images/nug-banner.png" width="800"/>
+<img  alt="daga-banner" src="./images/nugmara-banner.png" width="800"/>
 
 </div>
 
