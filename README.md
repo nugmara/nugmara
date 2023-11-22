@@ -93,6 +93,8 @@
 
 ### A Web's Developer Journey
 
+<img align="left" width="150px" src="https://github.com/nugmara/nugmara/assets/118689208/1fae466f-dac4-4362-b0c0-05d83df2f2b2"/>
+
 > **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie**
 
 </p>
