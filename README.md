@@ -5,7 +5,7 @@
 
 ### **I am a Front-end Developer** from Spain
 
-<img  alt="daga-banner" src="./images/nugmara-banner.png" width="800"/>
+<img  alt="daga-banner" src="https://github.com/nugmara/nugmara/assets/118689208/e712434f-27d5-48cb-b4bf-431fc4e975e5" width="550"/>
 
 </div>
 
