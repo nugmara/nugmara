@@ -3,25 +3,22 @@
 # 👋 Hi, world! I'm Dagmara Grabowska👋
 
 
-### **I am a Front-end Developer** from Spain
 
-<img  alt="daga-banner" src="https://github.com/user-attachments/assets/5a3acb75-dec5-4f67-a9e8-a27bdb03f2b8" width="700"/>
+### **I'm just Dagmara—figuring things out as I go.** 
+
+
 
 </div>
 
 
-### About Me
-
-* Currently, I am enthusiastically delving into the realm of WebGL, as I aspire to specialize in this captivating technology for my future endeavors.
-* I am continuously honing and refining the skills I have acquired, as I remain dedicated to my learning journey and strive for constant improvement.
-* I am passionate about creating stunning websites that engage and captivate users, providing them with a delightful online experience.
-* I am embracing and loving the challenges web development offers, as they lead to rewarding growth and satisfaction.
+### WebGL, 3D, and cybersecurity—blending creativity with security to build cool, interactive experiences. I'm fascinated by computer science, love cybersecurity, and find programming endlessly exciting.
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/dagmara-grabowska/">
     <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor" height="50" width="50" style="max-width: 100%"/>
 </a>
+
 
 ### Languages and tools
 
@@ -50,52 +47,48 @@
         <img alt="nodejs-logo" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor"/>
     </a>
     &nbsp
-    <a href="https://expressjs.com/">
-        <img alt="express-logo" src="https://icongr.am/devicon/express-original.svg?size=50&color=currentColor"/>
-    </a>
-    &nbsp
-    <a href="https://www.mongodb.com/">
-        <img alt="ongodb-logo" src="https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor"/>
-    </a>
-    &nbsp
-    <a href="https://www.postgresql.org/">
-        <img alt="postgresql-logo" src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor"/>
-    </a>
     &nbsp
     <a href="https://git-scm.com/">
         <img alt="git-logo" src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor"/>
     </a>
 </div>
 
-### :octocat: Facts about me <img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
+### A bit about me 
 
- <p align="left"> I am deeply passionate about offering assistance to others and striving to create solutions that contribute positively to 
-    people's lives. Whether it involves extending a helping hand or developing projects that serve a purpose, I find immense fulfillment in making a meaningful impact. I take great pride in the work I undertake. Witnessing the positive outcomes and knowing that my efforts have made a difference serves as a constant motivation to continue my pursuit of meaningful contributions.</p>
+ <p align="left"> 
+     - Got back into coding & cybersecurity in 2025—now all in on serious projects. <br>
+     - Not into social media (except LinkedIn for learning & networking) 
+ </p>
+
+<img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
+
+### :shipit: What I do
+
+🚀 WebGL & 3D – Graphics, shaders, real-time rendering.<br>
+🔐 Cybersecurity – Learning how things work (and how to break them).<br>
+🎮 Game Development – Because making games is just as fun as playing them.<br>
 
 
-### :shipit: Funny facts about me
-
-<p>
-
-<img align="right" alt="avoiding-internet" src="./images/funny-jacket.gif" width="150"><p align="left">As a dedicated professional in the field of Web Development, I refrain from using any social media except for LinkedIn. Initially skeptical, I've come to appreciate LinkedIn for its opportunities to connect with interesting professionals and access valuable knowledge. I's been a great place for me to keep learning from others. There are so many opportunities to share knowledge, have interesting conversations, and join communities specific to our industries.</p>
-
-<p>
 
 ### ⚙️ GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugmara&layout=compact&langs_count=8&theme=jolly)
+<div style="display: flex; justify-content: space-evenly;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugmara&show_icons=true&theme=jolly&rank_icon=github)
+  <img src="https://github-readme-stats.vercel.app/api?username=nugmara&show_icons=true&theme=jolly&rank_icon=github" alt="Anurag's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugmara&layout=compact&langs_count=8&theme=jolly" alt="Top Langs" />
 
-</p>
 
-<p>
+</div>
 
-### A Web's Developer Journey
+
+
+### Progress, Not Perfection
 
 <img align="left" width="150px" src="https://github.com/nugmara/nugmara/assets/118689208/1fae466f-dac4-4362-b0c0-05d83df2f2b2"/>
 
-> **"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie**
+> **"Every expert you know got to where they are by solving challenges they once thought were beyond them—until they took the leap and figured it out."**
+> In the beginning, everyone doubted they’d ever make it, but they stayed consistent. Progress isn’t always linear; some days may feel slower, and some lessons may take longer to learn, but it's the persistence that drives success. It's about showing up every day, even when the growth feels small, because over time, those small steps lead to big changes.
 
 </p>
 
