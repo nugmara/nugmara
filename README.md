@@ -55,12 +55,13 @@
 
 ### A bit about me 
 
+<img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
+
  <p align="left"> 
      - Got back into coding & cybersecurity in 2025—now all in on serious projects. <br>
      - Not into social media (except LinkedIn for learning & networking) 
  </p>
 
-<img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
 
 ### :shipit: What I do
 
@@ -88,7 +89,6 @@
 <img align="left" width="150px" src="https://github.com/nugmara/nugmara/assets/118689208/1fae466f-dac4-4362-b0c0-05d83df2f2b2"/>
 
 > **"Every expert you know got to where they are by solving challenges they once thought were beyond them—until they took the leap and figured it out."**
-> In the beginning, everyone doubted they’d ever make it, but they stayed consistent. Progress isn’t always linear; some days may feel slower, and some lessons may take longer to learn, but it's the persistence that drives success. It's about showing up every day, even when the growth feels small, because over time, those small steps lead to big changes.
 
 </p>
 
