@@ -5,7 +5,7 @@
 
 ### **I am a Front-end Developer** from Spain
 
-<img  alt="daga-banner" src="https://github.com/nugmara/nugmara/assets/118689208/e712434f-27d5-48cb-b4bf-431fc4e975e5" width="550"/>
+<img  alt="daga-banner" src="https://github.com/user-attachments/assets/5a3acb75-dec5-4f67-a9e8-a27bdb03f2b8" width="700"/>
 
 </div>
 
@@ -67,7 +67,7 @@
     </a>
 </div>
 
-### :octocat: Facts about me <img align="right" alt="octocat-dagmaro" src="./images/octocat-dagmaro.png" width="200"/> 
+### :octocat: Facts about me <img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
 
  <p align="left"> I am deeply passionate about offering assistance to others and striving to create solutions that contribute positively to 
     people's lives. Whether it involves extending a helping hand or developing projects that serve a purpose, I find immense fulfillment in making a meaningful impact. I take great pride in the work I undertake. Witnessing the positive outcomes and knowing that my efforts have made a difference serves as a constant motivation to continue my pursuit of meaningful contributions.</p>
@@ -77,7 +77,7 @@
 
 <p>
 
-<img align="right" alt="avoiding-internet" src="./images/funny-jacket.gif" width="150"><p align="left">As a dedicated professional in the field of Web Development, I refrain from using any social media except for LinkedIn. Initially skeptical, I've come to appreciate LinkedIn for its opportunities to connect with interesting professionals and access valuable knowledge. I've found that LinkedIn offers a chance to connect with many different people who share similar interests and career goals. It's not just a social media platform; it's been a great place for me to keep learning from others. There are so many opportunities to share knowledge, have interesting conversations, and join communities specific to our industries. I have genuinely found LinkedIn to be an enriching platform.</p>
+<img align="right" alt="avoiding-internet" src="./images/funny-jacket.gif" width="150"><p align="left">As a dedicated professional in the field of Web Development, I refrain from using any social media except for LinkedIn. Initially skeptical, I've come to appreciate LinkedIn for its opportunities to connect with interesting professionals and access valuable knowledge. I's been a great place for me to keep learning from others. There are so many opportunities to share knowledge, have interesting conversations, and join communities specific to our industries.</p>
 
 <p>
 
