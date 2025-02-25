@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 👋 Hi, world! I'm Dagmara Grabowska👋
+# :ghost:Hi, world! I'm Dagmara Grabowska:ghost:
 
 
 
