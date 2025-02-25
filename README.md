@@ -13,9 +13,10 @@
 
 ### WebGL, 3D, and cybersecurity—blending creativity with security to build cool, interactive experiences. I'm fascinated by computer science, love cybersecurity, and find programming endlessly exciting.
 
-<img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
 
 ### :shipit: A bit about me 
+
+<img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
 
  <p align="left"> 
      - Got back into coding & cybersecurity in 2025—now all in on serious projects. <br>
