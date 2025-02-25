@@ -53,7 +53,7 @@
     </a>
 </div>
 
-### A bit about me 
+### :shipit: A bit about me 
 
 <img align="right" alt="octocat-dagmaro" src="https://github.com/user-attachments/assets/4638fc71-2950-4fcf-882b-abb9875083a0" width="200"/> 
 
@@ -63,7 +63,7 @@
  </p>
 
 
-### :shipit: What I do
+### :octocat: What I do
 
 🚀 WebGL & 3D – Graphics, shaders, real-time rendering.<br>
 🔐 Cybersecurity – Learning how things work (and how to break them).<br>
