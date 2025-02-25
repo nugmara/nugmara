@@ -26,9 +26,9 @@
 
 ### :octocat: What I do
 
-🚀 WebGL & 3D – Graphics, shaders, real-time rendering.<br>
-🔐 Cybersecurity – Learning how things work (and how to break them).<br>
-🎮 Game Development – Because making games is just as fun as playing them.<br>
+- 🚀 WebGL & 3D – Graphics, shaders, real-time rendering.<br>
+- 🔐 Cybersecurity – Learning how things work (and how to break them).<br>
+- 🎮 Game Development – Because making games is just as fun as playing them.<br>
 
 ### Connect with me:
 
