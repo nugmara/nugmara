@@ -1,7 +1,8 @@
-<div align="center"> 
+<div align="left"> 
 
 # :ghost:Hi, world! I'm Dagmara Grabowska:ghost:
 
+<img src="https://github.com/user-attachments/assets/d01f711d-af01-4981-a9d7-ede0971668f3" width="180" align="left" />
 
 
 ### **I'm just Dagmara—figuring things out as I go.** 
@@ -13,6 +14,7 @@
 
 ### WebGL, 3D, and cybersecurity—blending creativity with security to build cool, interactive experiences. I'm fascinated by computer science, love cybersecurity, and find programming endlessly exciting.
 
+<br>
 
 ### :shipit: A bit about me 
 
